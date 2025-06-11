@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110037957022",
+    "project_id": "schoolbell-aaa7b",
+    "storage_bucket": "schoolbell-aaa7b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110037957022:android:afe83bd4f7487478a2be8f",
+        "android_client_info": {
+          "package_name": "com.seungyeon_99.SchoolBell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6bifhu9yAL9jbQdFgGnV7pHPdqGBFTuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
